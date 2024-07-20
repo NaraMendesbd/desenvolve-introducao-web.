@@ -1,33 +1,23 @@
-*/
 a {
     color: red;
-    text-decoration: none; 
 }
-
 a:hover {
     color: lime;
 }
 
-/*
-*/
 p {
-    font-family: 'arial';
+    font-family: arial;
 }
-
 h1 + p {
     font-weight: bold;
 }
-/*
-*/
+
 .destaque {
     font-family: arial;
 }
-
-p.destaque {
+p.destaque{
     font-weight: bold;
 }
-
 strong.destaque {
     color: red;
 }
-/*
