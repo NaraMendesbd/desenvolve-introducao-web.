@@ -1,0 +1,13 @@
+/* Color Theme Swatches in Hex */
+/*
+.destaque { color: #BF7C63; }
+.Moda-2-hex { color: #592D23; }
+.Moda-3-hex { color: #A66151; }
+.background { color: #D99D8F; }
+.principal { color: #400101; }
+*/
+
+html {
+    background:#D99D8F;
+    color:#400101;
+}
