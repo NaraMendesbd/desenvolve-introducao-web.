@@ -87,7 +87,6 @@ abbr {font-variant: small-caps;}
 
 .explanation {
     width: 60%;
-    margin-right: 35%;
     border-right: #1f295c solid 1px;
     padding-right: 2%;
 }
@@ -96,6 +95,7 @@ abbr {font-variant: small-caps;}
     position: absolute;
     top: 505px;
     left: 62%;
+    width: 34%;
     padding-left: 1%;
     padding-right: 1%;
 }
